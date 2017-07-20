@@ -9,3 +9,4 @@ Finish feature one.
 Finish feature one.
 Finish feature one.
 Fix for feature one.
+Normal fix for release 1.0
