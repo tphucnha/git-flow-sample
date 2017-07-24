@@ -1,6 +1,9 @@
 Part 2 of feature one.
 Part 2 of feature one.
 Part 2 of feature one.
+
+Feature three;
+
 Part 2 of feature one.
 
 Feature two
@@ -8,6 +11,9 @@ Feature two
 Part 2 of feature one.
 Part 2 of feature one.
 Part 2 of feature one.
+
+Feature three;
+
 Finish feature one.
 Finish feature one.
 

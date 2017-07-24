@@ -1,7 +1,13 @@
 For feature one.
 For feature one.
 For feature one.
+
+Feature three;
+
 For feature one.
+
+Feature three;
+
 For feature one.
 For feature one.
 Part 2 of feature one.
