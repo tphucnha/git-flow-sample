@@ -1,5 +1,8 @@
 Finish feature one.
 Finish feature one.
+
+Feature two;
+
 Finish feature one.
 
 Feature three;
