@@ -2,11 +2,17 @@ Part 2 of feature one.
 Part 2 of feature one.
 Part 2 of feature one.
 Part 2 of feature one.
+
+Feature two
+
 Part 2 of feature one.
 Part 2 of feature one.
 Part 2 of feature one.
 Finish feature one.
 Finish feature one.
+
+Feature two
+
 Finish feature one.
 Fix for feature one.
 Normal fix for release 1.0
