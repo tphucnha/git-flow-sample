@@ -10,5 +10,6 @@ change-email feature is added;
 change-email feature is finished;
 Change-password feature is fixed;
 add-address feature is added;
-Finished add-address feature;Initial Commit
+Finished add-address feature;
 Feature-one's Bug1 is fixed;
+Finished delete-profile feature;
