@@ -6,6 +6,8 @@ edit-profile feature is added;
 Edit profile feature is finished;
 change-password feature is finished;
 Change username feature is finished;
+change-email feature is added;
+change-email feature is finished;
 Change-password feature is fixed;
 add-address feature is added;
 Finished add-address feature;

@@ -24,6 +24,13 @@ public class EditProfileController {
 		return "Password changed!";
 	}
 
+	public String changeEmail() {
+		/*
+		Finished change-email feature;
+		*/
+		return "Email changed!";
+	}
+
 	public String addAddress() {
 		/*
 		Finished add-address feature.
