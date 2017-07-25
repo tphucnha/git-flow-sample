@@ -7,3 +7,5 @@ Edit profile feature is finished;
 change-password feature is finished;
 Change username feature is finished;
 Change-password feature is fixed;
+add-address feature is added;
+Finished add-address feature;
