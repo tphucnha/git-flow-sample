@@ -7,3 +7,4 @@ Edit profile feature is finished;
 change-password feature is finished;
 Change username feature is finished;
 change-email feature is added;
+change-email feature is finished;

@@ -22,6 +22,9 @@ public class EditProfileController {
 	}
 
 	public String changeEmail() {
+		/*
+		Finished change-email feature;
+		*/
 		return "Email changed!";
 	}
 }
