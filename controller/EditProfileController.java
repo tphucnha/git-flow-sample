@@ -22,6 +22,9 @@ public class EditProfileController {
 	}
 
 	public String addAddress() {
+		/*
+		Finished add-address feature.
+		*/
 		return "Addresss added";
 	}
 }
