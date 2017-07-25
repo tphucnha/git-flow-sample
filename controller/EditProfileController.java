@@ -20,4 +20,8 @@ public class EditProfileController {
 	public String changePassword() {
 		return "Password changed!";
 	}
+
+	public String addAddress() {
+		return "Addresss added";
+	}
 }
