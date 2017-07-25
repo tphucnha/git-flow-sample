@@ -37,4 +37,8 @@ public class EditProfileController {
 		*/
 		return "Addresss added";
 	}
+
+	public String deleteProfile() {
+		return "Profile deleted!";
+	}
 }
