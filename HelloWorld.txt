@@ -2,3 +2,4 @@ Initial Commit
 Feature two;
 Feature three;
 Login-feature is added;
+edit-profile feature is added;
