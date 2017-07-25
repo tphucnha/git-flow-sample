@@ -18,6 +18,9 @@ public class EditProfileController {
 	}
 
 	public String changePassword() {
+		/*
+		Fix something for change-password feature.
+		*/
 		return "Password changed!";
 	}
 }
