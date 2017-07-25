@@ -11,6 +11,9 @@ public class EditProfileController {
 	}
 
 	public String changeUsername() {
+		/*
+		Fix something in change-username feature.
+		*/
 		return "Username changed!";
 	}
 
