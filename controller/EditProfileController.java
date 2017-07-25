@@ -9,4 +9,8 @@ public class EditProfileController {
 	public String finishFeature() {
 		return "Finished!";
 	}
+
+	public String changePassword() {
+		return "Password changed!";
+	}
 }
