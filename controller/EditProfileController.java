@@ -13,4 +13,8 @@ public class EditProfileController {
 	public String changeUsername() {
 		return "Username changed!";
 	}
+
+	public String changePassword() {
+		return "Password changed!";
+	}
 }

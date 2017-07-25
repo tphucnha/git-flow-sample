@@ -4,4 +4,5 @@ Feature three;
 Login-feature is added;
 edit-profile feature is added;
 Edit profile feature is finished;
+change-password feature is finished;
 Change username feature is finished;
