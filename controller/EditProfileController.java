@@ -10,6 +10,10 @@ public class EditProfileController {
 		return "Finished!";
 	}
 
+	public String changeUsername() {
+		return "Username changed!";
+	}
+
 	public String changePassword() {
 		return "Password changed!";
 	}
